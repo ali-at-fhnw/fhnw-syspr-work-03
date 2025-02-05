@@ -1,6 +1,0 @@
-#include <stdio.h>
-// TODO ...
-
-int main(int argc, char *argv[]) {
-   // TODO ...
-}
